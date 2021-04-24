@@ -1,0 +1,63 @@
+﻿  main.cpp
+D:\C++\code\TinyRenderer\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\C++\code\TinyRenderer\main.cpp(29,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++\code\TinyRenderer\main.cpp(55,59): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++\code\TinyRenderer\main.cpp(55,35): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++\code\TinyRenderer\main.cpp(70,52): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++\code\TinyRenderer\main.cpp(71,33): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++\code\TinyRenderer\main.cpp(71,28): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++\code\TinyRenderer\main.cpp(78,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++\code\TinyRenderer\main.cpp(78,21): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\C++\code\TinyRenderer\main.cpp(107,100): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\C++\code\TinyRenderer\main.cpp(107,83): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\C++\code\TinyRenderer\main.cpp(107,66): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  model.cpp
+D:\C++\code\TinyRenderer\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\C++\code\TinyRenderer\model.cpp(94,67): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\C++\code\TinyRenderer\model.cpp(94,29): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  正在生成代码...
+  TinyRenderer.vcxproj -> D:\C++\code\TinyRenderer\Debug\TinyRenderer.exe

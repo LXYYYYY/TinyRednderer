@@ -1,0 +1,2 @@
+D:\C++\code\TinyRenderer\Debug\TinyRenderer.exe
+D:\C++\code\TinyRenderer\Debug\TinyRenderer.pdb
